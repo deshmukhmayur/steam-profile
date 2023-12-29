@@ -1,0 +1,12 @@
+{
+  "name": "steam-profile",
+  "module": "src/index.ts",
+  "type": "module",
+  "author": "deshmukhmayur",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
